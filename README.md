@@ -3,6 +3,18 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
+---
+
+## Categories
+
+* [Git](#git)
+
+---
+
+## Git
+
+* [Follow File Changes](git/follow-file-changes.md)
+
 ## About
 
 I shamelessly stole this idea from

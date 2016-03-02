@@ -8,12 +8,17 @@ variety of languages and technologies.
 ## Categories
 
 * [Git](#git)
+* [Mac](#mac)
 
 ---
 
 ## Git
 
 * [Follow File Changes](git/follow-file-changes.md)
+
+## Mac
+
+* [Copy Screenshot To Clipboard](mac/screenshot-to-clipboard.md)
 
 ## About
 
